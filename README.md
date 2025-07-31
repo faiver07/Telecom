@@ -111,7 +111,7 @@ A partir del análisis exploratorio de datos y la visualización de las principa
 - Se recomienda a la empresa TELECOM X enfocar sus estrategias de retención en ofrecer incentivos para contratos a largo plazo, mejorar la experiencia de los usuarios de fibra óptica y promover servicios adicionales de valor agregado.
 - Es fundamental analizar en profundidad los motivos detrás del churn en clientes con cargos mensuales altos y métodos de pago electrónicos para diseñar campañas personalizadas de retención.
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Paquetes Utilizados
 
 ```python
 import pandas as pd
